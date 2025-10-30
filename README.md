@@ -1,6 +1,6 @@
-## 🪄 Hi, I'm Mayur Patil  
+## 🪄 Hi, I'm Manasi Patil  
 
-I'm a **BTech Data Science student** deeply passionate about the intersection of **data and technology**.  
+  I'm a **BTech AIML  student** deeply passionate about the intersection of **data and technology**.  
 
 🤝 I'm actively seeking collaborations on both **web development** and **machine learning** projects to apply my skills and learn from others.  
 
@@ -11,8 +11,7 @@ I'm a **BTech Data Science student** deeply passionate about the intersection of
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/patilmanasi26/))
 
 ---
 
@@ -33,9 +32,9 @@ I'm a **BTech Data Science student** deeply passionate about the intersection of
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MayurPatil&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=MayurPatil&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayurPatil&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=manasi2654&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=manasi2654&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasi2654&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
